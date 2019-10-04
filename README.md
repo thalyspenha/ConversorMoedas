@@ -1,6 +1,6 @@
 # conversor_moedas
 
-A new Flutter project.
+App criado com Flutter para conversão de moedas, consumindo API da Hgbrasil.
 
 ## Getting Started
 
